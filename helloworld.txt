@@ -1,4 +1,7 @@
 #this is my file 1 
 #this is my line 2
-#this is my file 4
+hello there 
+how 
+are you 
+We are learning SVN
 
