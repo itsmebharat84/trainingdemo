@@ -1,7 +1,7 @@
-#this is my file 7 
-#this is my line 8
-hello txt 
-ho 
-are you 
+#this is my file 13 
+#this is my line 14
+hello texte  
+hello 
+are u 
 We were learning SVN
 
